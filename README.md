@@ -5,7 +5,7 @@ Workaround to show infoWindow in clustering Android JetPack Compose
 Video
 --------
 
-![Youtube](https://github.com/R0om/CircularSlider-Compose/blob/main/images/Screenshot_20220419-165316.png)
+![Youtube](https://www.youtube.com/shorts/olqWuekOLeM)
 
 
 License
