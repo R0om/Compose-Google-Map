@@ -4,7 +4,7 @@ Workaround to show infoWindow in clustering Android JetPack Compose
 
 Video
 --------
-[![Watch the video](https://www.youtube.com/shorts/olqWuekOLeM)
+[![Watch the video]](https://www.youtube.com/shorts/olqWuekOLeM)
 
 
 License
